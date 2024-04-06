@@ -1,10 +1,12 @@
 import './App.css'
 
+import Home from './components/Home/Home'
+
 function App() {
 
   return (
     <>
-      <h1>Removing boilerplate code</h1>
+      <Home />
     </>
   )
 }
